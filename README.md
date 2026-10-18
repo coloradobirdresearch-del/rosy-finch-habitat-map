@@ -1,1 +1,0 @@
-# rosy-finch-habitat-map
